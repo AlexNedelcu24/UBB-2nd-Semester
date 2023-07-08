@@ -1,0 +1,13 @@
+﻿  App.cpp
+  Iterator.cpp
+  LO.cpp
+  TestExtins.cpp
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(83,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(98,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(112,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(122,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(217,19): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\Tema_2_vs\TestExtins.cpp(295,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  Tema_2_vs.vcxproj -> G:\faculta sem 2\SDA\LAB2,3\Tema_2_vs\x64\Debug\Tema_2_vs.exe

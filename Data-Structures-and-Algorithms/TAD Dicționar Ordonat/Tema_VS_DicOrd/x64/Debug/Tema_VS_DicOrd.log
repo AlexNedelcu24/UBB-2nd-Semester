@@ -1,0 +1,12 @@
+﻿  App.cpp
+  DO.cpp
+  Iterator.cpp
+  TestExtins.cpp
+G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\Tema_VS_DicOrd\TestExtins.cpp(102,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\Tema_VS_DicOrd\TestExtins.cpp(112,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\Tema_VS_DicOrd\TestExtins.cpp(120,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\Tema_VS_DicOrd\TestExtins.cpp(128,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\Tema_VS_DicOrd\TestExtins.cpp(236,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TestScurt.cpp
+  Generating Code...
+  Tema_VS_DicOrd.vcxproj -> G:\faculta sem 2\SDA\LAB6\Tema_VS_DicOrd\x64\Debug\Tema_VS_DicOrd.exe

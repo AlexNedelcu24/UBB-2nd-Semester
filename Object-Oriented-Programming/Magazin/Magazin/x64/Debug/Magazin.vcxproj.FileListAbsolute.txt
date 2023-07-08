@@ -1,0 +1,6 @@
+F:\faculta sem 2\OOP\Lab 6-7\Magazin\x64\Debug\Magazin.exe.lastcodeanalysissucceeded
+F:\faculta sem 2\OOP\Lab 6-7\Magazin\Magazin\x64\Debug\NativeCodeAnalysis.read.1.tlog
+F:\faculta sem 2\OOP\Lab 8-9\Magazin\x64\Debug\Magazin.exe.lastcodeanalysissucceeded
+F:\faculta sem 2\OOP\Lab 8-9\Magazin\Magazin\x64\Debug\NativeCodeAnalysis.read.1.tlog
+F:\faculta sem 2\OOP\Lab 9\Magazin\x64\Debug\Magazin.exe.lastcodeanalysissucceeded
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\x64\Debug\NativeCodeAnalysis.read.1.tlog

@@ -1,0 +1,12 @@
+﻿  Service.cpp
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Service.cpp(147,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Magazin.vcxproj -> F:\faculta sem 2\OOP\Lab 9\Magazin\x64\Debug\Magazin.exe
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Produs.h(17): warning C26432: If you define or delete any default operation in the type 'class Produs', define or delete them all (c.21).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Cos.cpp(13): warning C26440: Function 'Cos::empty' can be declared 'noexcept' (f.6).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Cos.cpp(25): warning C26440: Function 'Cos::getAll' can be declared 'noexcept' (f.6).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Undo.h(11): warning C26432: If you define or delete any default operation in the type 'class Undo', define or delete them all (c.21).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Produs.cpp(37): warning C26440: Function 'cmpPret' can be declared 'noexcept' (f.6).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\Service.cpp(79): warning C26440: Function '<lambda_847fd2d469ba72359e3a92ba6750f43d>::operator()' can be declared 'noexcept' (f.6).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\UI.cpp(233): warning C26496: The variable 'nr_add' does not change after construction, mark it as const (con.4).
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\UI.cpp(274): warning C6246: Local declaration of 'p' hides declaration of the same name in outer scope. For additional information, see previous declaration at line '272' of 'f:\faculta sem 2\oop\lab 9\magazin\magazin\ui.cpp'.
+F:\faculta sem 2\OOP\Lab 9\Magazin\Magazin\UI.cpp(294): warning C26494: Variable 'cmd' is uninitialized. Always initialize an object (type.5).

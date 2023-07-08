@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1654208480 source:f:\faculta sem 2\grafuri\codurile mele\4\decodare prufer\main.cpp
+	<iostream>
+	<fstream>
+	<deque>
+

@@ -1,0 +1,10 @@
+﻿  App.cpp
+  IteratorMD.cpp
+  MD.cpp
+  TestExtins.cpp
+G:\faculta sem 2\SDA\4 const\Tema_vs_multi\Tema_vs_multi\TestExtins.cpp(230,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+G:\faculta sem 2\SDA\4 const\Tema_vs_multi\Tema_vs_multi\TestExtins.cpp(239,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+G:\faculta sem 2\SDA\4 const\Tema_vs_multi\Tema_vs_multi\TestExtins.cpp(240,3): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  TestScurt.cpp
+  Generating Code...
+  Tema_vs_multi.vcxproj -> G:\faculta sem 2\SDA\4 const\Tema_vs_multi\x64\Debug\Tema_vs_multi.exe
